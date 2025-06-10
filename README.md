@@ -96,7 +96,7 @@ This tool is open-source and free to use. Modify or distribute it as you like.
 
 ## ❤️ Credits
 
-Developed by [Your Name](https://github.com/MasHunterOdficial)
+Developed by [MAS Hunter Official](https://github.com/MasHunterOfficial)
 Inspired by the need to merge videos efficiently on mobile terminals.
 
 ---
