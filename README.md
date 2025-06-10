@@ -36,7 +36,7 @@ Make sure you have **Termux** installed and updated:
 ```bash
 pkg update && pkg upgrade
 pkg install git
-git clone https://github.com/mashunteroffical/termux-video-merger.git
+git clone https://github.com/MasHunterOfficial/termux-video-merger.git
 cd termux-video-merger
 chmod +x video-merger.sh
 ````
